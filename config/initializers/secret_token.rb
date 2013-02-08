@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Bets::Application.config.secret_token = '9465a01bdcc41df3bd050253fe1c006eead8dd036f9065842834d53c49b1cc24b2c9629dd21969e54f49aa3f3958dfdcda7e9052d47182fffd2a524775a38def'
+Betting::Application.config.secret_token = '307a8f67e831059d8c351fe3b5ba5591a2d35025a1b9ce0dcb647d2175733c64e8cee277543975a0dd19d1b2a147af6de4d22b60c5b3cb03c742bf8741119086'

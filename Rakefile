@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Bets::Application.load_tasks
+Betting::Application.load_tasks
